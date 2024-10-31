@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\static",
+    "\\static\\assets",
+    "\\templates",
+    "\\templates\\layout",
+    "\\templates\\layout\\web"
+  ],
+  "SelectedNode": "\\templates\\layout\\web\\weblayout.html",
+  "PreviewInSolutionExplorer": false
+}
